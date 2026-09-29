@@ -30,3 +30,27 @@ In the project folder, run:
 ## Controls
 
 Use W, A, S, and D to move. Press Q to quit.
+## Features
+
+- Menu and game instructions
+- Snake movement using W, A, S, and D
+- Score changes when objects are collected
+- Special objects with different effects
+- Wall and self-collision handling
+- Restart and quit options
+
+## Tools Used
+
+- Python 3
+- Python standard library
+- Visual Studio Code
+- Git and GitHub Desktop
+
+## Testing Instructions
+
+1. Open a terminal in the project folder.
+2. Run `py snake_game.py`.
+3. Check the menu and instructions.
+4. Start a game and try the movement controls.
+5. Check what happens when you collect objects or hit a wall.
+6. Try restarting, quitting to the menu, and exiting.
