@@ -1,11 +1,32 @@
 # VITyarthi Snake Game
 
-A simple Snake game made in Python for the VITyarthi CSE1021 project.
+A command-line Snake game project for CSE1021.
 
-## How to run
+## Requirements
 
-1. Install Python 3.
-2. Open a terminal in this folder.
-3. Run:
+- Python 3
+- A terminal or command prompt
 
-   py snake_game.py
+## Setup
+
+1. Install Python 3 if it is not already installed.
+2. Open a terminal in this project folder.
+3. On Windows, check that Python is available by running `py --version`.
+
+## Dependencies
+
+This project uses Python's standard library. No extra packages need to be installed.
+
+## Configuration
+
+No additional configuration is needed.
+
+## Run the game
+
+In the project folder, run:
+
+    py snake_game.py
+
+## Controls
+
+Use W, A, S, and D to move. Press Q to quit.
